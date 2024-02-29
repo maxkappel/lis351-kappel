@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en-US">
+		<meta charset="utf-8">
+		<title>The Badger Herald</title>
+		<meta name="viewport" content="widt=device-width">
+		
+	<body>
+	
+		<header>
+			<h1>Articles from The Badger Herald</h1>
+		</header>
+		
+	<main>
+
+		<article>
+			<h2>Wahl's lifelong dream evolves into five-year reality at Wisconsin</h2>
+			
+			<link
+				href="https://badgerherald.com/sports/2024/02/14/mens-basketball-wahls-lifelong-dream-evolves-into-five-year-reality-at-wisconsin/"
+				rel = "stylesheet" />
+			<link rel="stylesheet" href="style.css" />	
+			
+			<p>
+				This article details Tyler Wahl's basketball career as he prepares to
+				finish his fifth season at the University of Wisconsin. He was an
+				absolute joy to speak with and was friendly and welcoming. His high
+				school coach, John Oxton, was the same way. I loved speaking with them,
+				and tried to tell the story of Wahl so that he, his family, 
+				as well as Oxton and Lakeville North can be celebrated.
+			</p>	
+		</article>
+	</main>
+	</body>	
+</html>		
+				
