@@ -1,1 +1,47 @@
+* {	
+	font-family: Arial, Verdana, sans-serif;
+	color: #453647;
+	text-align: center;
+	background-color: white;}
+	
+body {
+	font-family: Times New Roman;
+	width: 960px;
+	margin: 0 auto;
+	background-color: white;
+}	
 
+nav {
+	background-color: #B433CA;
+	padding: 10px;
+	margin: 10px;
+}
+
+li {
+	display: inline;
+	padding: 5px;
+}	
+
+section {
+	overflow: auto;
+	height: 960px;	
+}	
+
+main {
+	background-color: white;
+	padding: 10px;
+	margin: 10px;
+}	
+
+article {
+	background-color: white;
+	padding: 10px;
+	margin: 10px;
+	width: 280px;
+}	
+
+footer {
+	background-color: #D315F5;
+	padding: 10px;
+	margin: 10px;
+}	
